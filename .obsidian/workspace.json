@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "8225eecd5101cf7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c04bf68449220b3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7be6e4432966c0a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2021-05-03-sticky-posts.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2021-05-03-sticky-posts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bdd9b1cbe730a6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d353f9d521486379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "219876ecb57476a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3a4d43fe513c7eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "02f2097f90b85fbb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37374f66736c260d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fd484eaf286cba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "260c7e1e73965ab3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2026-07-03-welcome.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-07-03-welcome.md"
+            }
+          },
+          {
+            "id": "9de4fc0b7e14913e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8f9136a554706a5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "080b28ac2ea713fb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a6924eba99f13565",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7be6e4432966c0a0",
+  "lastOpenFiles": [
+    "_posts/2026-07-03-welcome.md.md",
+    "_posts/2017-03-29-introducing-tale.md",
+    "assets/images/954093D3-2855-4B35-ABFF-9A3801550B81.png",
+    "_pages/about.md",
+    "assets/apple-touch-icon.png",
+    "assets/images/2026-07-03-welcome.md.png",
+    "954093D3-2855-4B35-ABFF-9A3801550B81.png",
+    "assets/images",
+    "_posts/ㅇㄹㅇㄹㄴㅇㅁ.md"
+  ]
+}

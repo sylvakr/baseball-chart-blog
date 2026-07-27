@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import 'tale';
+
+// 1. 목록 제목 크기 및 행간 줄임
+.catalogue-title {
+  font-size: 1.2rem !important; 
+  line-height: 1.2 !important;
+  margin-bottom: 0 !important; /* 제목 아래쪽 마진 제거 */
+}
+
+// 2. 제목 밑에 나오는 검은색 가로선 여백 제거
+.catalogue-line {
+  margin: 4px 0 0 0 !important; /* 가로선 위아래 붕 뜨는 공간을 최소화 */
+}
+
+// 3. 목록 한 칸의 전체 위아래 간격 대폭 축소
+.catalogue-item {
+  padding: 12px 0 !important;   /* 위아래 패딩을 확 줄임 */
+  margin-bottom: 0 !important;  /* 혹시 모를 다음 칸과의 마진 제거 */
+}
