@@ -21,8 +21,11 @@
   {% include analytics.html %}
   {% endif %}
 
-  <!-- beehiiv Attribution tracking -->
+  <!-- beehiiv Attribution tracking & preconnect for fast loading -->
+  <link rel="preconnect" href="https://subscribe-forms.beehiiv.com" crossorigin>
+  <link rel="dns-prefetch" href="https://subscribe-forms.beehiiv.com">
   <script type="text/javascript" async src="https://subscribe-forms.beehiiv.com/attribution.js"></script>
 </head>
+
 
 
