@@ -7,6 +7,9 @@ url:            "https://blog.silva.kr"
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
+# Buttondown Newsletter
+buttondown_username: baseball.sylva.kr
+
 # Author
 author:
   name:         me

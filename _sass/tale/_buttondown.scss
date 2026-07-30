@@ -1,0 +1,86 @@
+.buttondown-container {
+  margin-top: 0.8rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+  .buttondown-form {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: $sans-serif;
+  }
+
+  .buttondown-label {
+    font-size: 0.85rem;
+    color: $default-color;
+    font-weight: 500;
+    margin-right: 0.25rem;
+    white-space: nowrap;
+  }
+
+  .buttondown-input-group {
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid $grey-2;
+    border-radius: 20px;
+    padding: 2px 4px 2px 12px;
+    background-color: $white;
+    @include transition(all 0.2s ease-in-out);
+
+    &:focus-within {
+      border-color: $grey-1;
+      box-shadow: 0 0 0 2px rgba(74, 154, 225, 0.15);
+    }
+  }
+
+  .buttondown-input {
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 0.825rem;
+    color: $default-color;
+    width: 170px;
+    font-family: $sans-serif;
+
+    &::placeholder {
+      color: $default-tint;
+      font-size: 0.8rem;
+    }
+  }
+
+  .buttondown-button {
+    border: none;
+    background-color: $default-shade;
+    color: $white;
+    font-size: 0.8rem;
+    font-weight: 500;
+    padding: 4px 14px;
+    border-radius: 16px;
+    cursor: pointer;
+    font-family: $sans-serif;
+    @include transition(all 0.2s ease-in-out);
+
+    &:hover,
+    &:focus {
+      background-color: $default-color;
+      transform: translateY(-1px);
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .buttondown-container {
+    justify-content: center;
+    margin-top: 1rem;
+
+    .buttondown-form {
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+
+    .buttondown-input {
+      width: 160px;
+    }
+  }
+}
