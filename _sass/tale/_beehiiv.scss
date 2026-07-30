@@ -1,0 +1,19 @@
+.beehiiv-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 0;
+
+  iframe,
+  form,
+  div {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  .beehiiv-container {
+    justify-content: center;
+    margin-top: 0.8rem;
+  }
+}

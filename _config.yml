@@ -7,8 +7,9 @@ url:            "https://blog.silva.kr"
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
-# Buttondown Newsletter
-buttondown_username: baseball.sylva.kr
+# beehiiv Newsletter
+beehiiv_form_id: 43b3afdd-70d6-489f-a728-0058f1914b9d
+
 
 # Author
 author:
