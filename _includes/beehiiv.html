@@ -1,5 +1,8 @@
 {% if site.beehiiv_form_id %}
 <div class="beehiiv-container">
-  <script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="{{ site.beehiiv_form_id }}"></script>
+  <div class="beehiiv-wrapper">
+    <script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="{{ site.beehiiv_form_id }}"></script>
+    <p class="beehiiv-description">구독해 주시면 뉴스레터를 메일로 보내 드립니다. (언제든 구독 해지 가능)</p>
+  </div>
 </div>
 {% endif %}
