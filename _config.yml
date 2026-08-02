@@ -5,7 +5,7 @@ baseurl:        "" # the subpath of your site
 url:            "https://blog.silva.kr"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: G-GKJRXVM7JY
 
 # beehiiv Newsletter
 beehiiv_form_id: 260f9dcb-4779-4457-938d-1da5faf92f29
