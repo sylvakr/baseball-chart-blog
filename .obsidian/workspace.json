@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2017-03-07-the-case-of-the-missing-post.md",
+                "file": "_posts/2026-07-03-welcome.md.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2017-03-07-the-case-of-the-missing-post"
+              "title": "2026-07-03-welcome.md"
             }
           }
         ]
@@ -194,10 +194,20 @@
   },
   "active": "7be6e4432966c0a0",
   "lastOpenFiles": [
+    "_posts/2017-03-16-example-content.md",
+    "_site/2026-07-03/2017-03-16-example-content.html",
+    "_site/2026-07-03/2017-03-16-example-content.html",
+    "_site/2026-07-03/2017-03-16-example-content.html",
+    "_site/2026-07-03/2017-03-16-example-content.html",
+    "_site/2026-07-03/2017-03-16-example-content.html",
+    "_site/2026-07-03/2017-03-16-example-content.html",
+    "_site/2026-07-03/2017-03-16-example-content.html",
+    "_site/2026-07-03/2017-03-16-example-content.html",
     "_posts/2026-07-03-welcome.md.md",
+    "_site/2026-07-03/2026-07-03-welcome.md.html",
+    "_site/2026-07-03/2026-07-03-welcome.md.html",
     "_posts/2017-03-06-the-mystery-of-the-filler-post.md",
     "_posts/2017-03-07-the-case-of-the-missing-post.md",
-    "_posts/2017-03-16-example-content.md",
     "_posts/2017-03-29-introducing-tale.md",
     "_posts/2021-04-30-managing-excerpt.md",
     "_posts/2021-05-03-sticky-posts.md",
@@ -206,7 +216,6 @@
     "assets/apple-touch-icon.png",
     "assets/images/2026-07-03-welcome.md.png",
     "954093D3-2855-4B35-ABFF-9A3801550B81.png",
-    "assets/images",
     "_posts/ㅇㄹㅇㄹㄴㅇㅁ.md"
   ]
 }
