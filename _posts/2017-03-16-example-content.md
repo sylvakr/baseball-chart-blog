@@ -2,7 +2,6 @@
 layout: post
 title: "Example Content"
 author: "Chester"
-tags: Example
 excerpt_separator: <!--more-->
 ---
 
@@ -84,6 +83,8 @@ _This is an image with a caption_
 
 ![Image with caption](https://placehold.it/700x400 "Image with caption")
 _This is an image with a caption_
+
+![](/assets/images/954093D3-2855-4B35-ABFF-9A3801550B81.png)
 
 # Code and Syntax Highlighting
 Use back-ticks for `inline code`. Multi-line code snippets are supported too through Pygments.
