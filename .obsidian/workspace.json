@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-07-03-welcome.md.md",
+                "file": "_posts/2026-08-04-basic-manual.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-07-03-welcome.md"
+              "title": "2026-08-04-basic-manual"
+            }
+          },
+          {
+            "id": "51b2a4c742855cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-08-02-user-prompts-examples.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-02-user-prompts-examples"
             }
           }
         ]
@@ -194,6 +208,12 @@
   },
   "active": "7be6e4432966c0a0",
   "lastOpenFiles": [
+    "_site/2026-08-04/basic-manual.html",
+    "_site/2026-08-04",
+    "_posts/2026-08-02-user-prompts-examples.md",
+    "_posts/2026-08-04-basic-manual.md",
+    "_site/2026-08-02/user-prompts-examples.html",
+    "_site/2026-08-02",
     "_posts/2017-03-16-example-content.md",
     "_posts/2026-07-03-welcome.md.md",
     "_site/2026-07-03/2017-03-16-example-content.html",
@@ -203,9 +223,6 @@
     "_site/2026-07-03/2017-03-16-example-content.html",
     "_site/2026-07-03/2017-03-16-example-content.html",
     "_site/2026-07-03/2017-03-16-example-content.html",
-    "_site/2026-07-03/2017-03-16-example-content.html",
-    "_site/2026-07-03/2026-07-03-welcome.md.html",
-    "_site/2026-07-03/2026-07-03-welcome.md.html",
     "_posts/2017-03-06-the-mystery-of-the-filler-post.md",
     "_posts/2017-03-07-the-case-of-the-missing-post.md",
     "_posts/2017-03-29-introducing-tale.md",
