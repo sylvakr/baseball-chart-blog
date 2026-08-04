@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-08-04-basic-manual.md",
-                "mode": "source",
+                "file": "_posts/2026-08-02-user-prompts-examples.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-08-04-basic-manual"
+              "title": "2026-08-02-user-prompts-examples"
             }
           },
           {
@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "_posts/2026-08-02-user-prompts-examples.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -208,15 +208,14 @@
   },
   "active": "7be6e4432966c0a0",
   "lastOpenFiles": [
+    "_posts/2026-08-04-basic-manual.md",
+    "_posts/2026-08-02-user-prompts-examples.md",
     "_site/2026-08-04/basic-manual.html",
     "_site/2026-08-04",
-    "_posts/2026-08-02-user-prompts-examples.md",
-    "_posts/2026-08-04-basic-manual.md",
     "_site/2026-08-02/user-prompts-examples.html",
     "_site/2026-08-02",
     "_posts/2017-03-16-example-content.md",
     "_posts/2026-07-03-welcome.md.md",
-    "_site/2026-07-03/2017-03-16-example-content.html",
     "_site/2026-07-03/2017-03-16-example-content.html",
     "_site/2026-07-03/2017-03-16-example-content.html",
     "_site/2026-07-03/2017-03-16-example-content.html",
