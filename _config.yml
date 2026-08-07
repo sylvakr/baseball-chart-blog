@@ -2,7 +2,7 @@
 title:          "Blog"
 description:    ""
 baseurl:        "" # the subpath of your site
-url:            "https://blog.silva.kr"
+url:            "https://blog.sylva.kr"
 
 # Google Analytics
 google_analytics: I edited analytics.html instead of using this setting. Please check _includes/analytics.html for more details. 
