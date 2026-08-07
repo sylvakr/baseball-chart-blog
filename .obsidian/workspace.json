@@ -207,8 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4abe2b49258be9bf",
+  "active": "219876ecb57476a1",
   "lastOpenFiles": [
+    "_site/assets/logo.svg",
+    "assets/logo.svg",
     "_posts/2026-08-02-user-prompts-examples.md",
     "_posts/2026-08-04-basic-manual.md",
     "_posts/2026-08-07-future-plans.md",
