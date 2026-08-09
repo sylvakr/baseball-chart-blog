@@ -11,14 +11,14 @@
             "id": "7be6e4432966c0a0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "_posts/2026-08-04-basic-manual.md",
-                "bFile": "_posts/2026-08-04-basic-manual.md",
-                "aRef": ""
+                "file": "_posts/2026-08-07-future-plans.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2026-08-04-basic-manual  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "2026-08-07-future-plans"
             }
           },
           {
@@ -209,10 +209,10 @@
   "active": "7be6e4432966c0a0",
   "lastOpenFiles": [
     "_posts/2026-08-04-basic-manual.md",
+    "_posts/2026-08-02-user-prompts-examples.md",
     "_posts/2026-08-07-future-plans.md",
     "_site/assets/logo.svg",
     "assets/logo.svg",
-    "_posts/2026-08-02-user-prompts-examples.md",
     "_site/2026-08-07/future-plans.html",
     "_site/2026-08-07/index.html",
     "_site/2026-08-07",
