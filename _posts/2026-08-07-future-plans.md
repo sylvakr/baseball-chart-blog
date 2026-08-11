@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "앞의로의 계획"
+title: 앞으로의 계획
 sticky: true
 hidden: true
 ---
