@@ -4,6 +4,20 @@
 
 @import 'tale';
 
+// 개별 포스트 상단 여백 완전 제거 (0)
+.post {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+.post-info {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+
+
+
 // 1. 목록 제목 크기 및 행간 줄임
 .catalogue-title {
   font-size: 1.2rem !important; 

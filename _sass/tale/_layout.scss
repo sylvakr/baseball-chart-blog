@@ -24,6 +24,8 @@ footer,
     text-align: center;
   }
 
+
+
   &-title {
     @include transition(all .2s ease-out);
     color: $default-color;
