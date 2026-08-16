@@ -72,12 +72,12 @@ table {
 
 thead {
   background-color: $grey-3;
-  border-bottom: 2px solid $grey-1;
+  border-bottom: 2px solid #b0b0b0 !important;
 }
 
 th,
 td {
-  border: 1px solid $grey-2;
+  border: 1px solid #d0d7de !important;
   overflow-wrap: break-word;
   padding: 0.4rem 0.5rem;
   text-align: left;
@@ -104,5 +104,6 @@ tbody tr {
     background-color: rgba(0, 0, 0, 0.04);
   }
 }
+
 
 
