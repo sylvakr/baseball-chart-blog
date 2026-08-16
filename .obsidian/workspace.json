@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-08-16-test-map.md",
+                "file": "_posts/2026-08-16-sql-validation-pipeline.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-08-16-test-map"
+              "title": "2026-08-16-sql-validation-pipeline"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "7be6e4432966c0a0",
   "lastOpenFiles": [
+    "_posts/2026-08-16-test-map.md",
     "_posts/2026-08-16-sql-validation-pipeline.md",
     "_site/2026-08-16/2026-08-16-sql-validation-pipeline.html",
     "_site/2026-08-16/2026-08-16-sql-validation-pipeline.html",
@@ -205,7 +206,6 @@
     "_site/2026-08-12/2026-08-12-sql-validation-pipeline.html",
     "_site/2026-08-12/2026-08-12-sql-validation-pipeline.html",
     "_site/2026-08-12",
-    "_posts/2026-08-16-test-map.md",
     "_site/2026-08-16/2026-08-16-test-map.html",
     "_site/2026-08-16/2026-08-16-test-map.html",
     "_site/2026-08-16/2026-08-16-test-map.html",
