@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-08-07-future-plans.md",
+                "file": "_posts/2026-08-16-test-map.md",
                 "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-07-future-plans"
-            }
-          },
-          {
-            "id": "51b2a4c742855cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2026-08-02-user-prompts-examples.md",
-                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-08-02-user-prompts-examples"
+              "title": "2026-08-16-test-map"
             }
           }
         ]
@@ -55,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -92,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 405.390625
   },
   "right": {
     "id": "37374f66736c260d",
@@ -169,6 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_posts/2026-08-16-sql-validation-pipeline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -208,23 +197,25 @@
   },
   "active": "7be6e4432966c0a0",
   "lastOpenFiles": [
-    "_posts/2026-08-04-basic-manual.md",
+    "_posts/2026-08-16-sql-validation-pipeline.md",
+    "_site/2026-08-16/2026-08-16-sql-validation-pipeline.html",
+    "_site/2026-08-16/2026-08-16-sql-validation-pipeline.html",
+    "_site/2026-08-16/2026-08-16-sql-validation-pipeline.html",
+    "_site/2026-08-16/2026-08-16-sql-validation-pipeline.html",
+    "_site/2026-08-12/2026-08-12-sql-validation-pipeline.html",
+    "_site/2026-08-12/2026-08-12-sql-validation-pipeline.html",
+    "_site/2026-08-12",
+    "_posts/2026-08-16-test-map.md",
+    "_site/2026-08-16/2026-08-16-test-map.html",
+    "_site/2026-08-16/2026-08-16-test-map.html",
+    "_site/2026-08-16/2026-08-16-test-map.html",
     "_posts/2026-08-07-future-plans.md",
+    "_posts/2026-08-04-basic-manual.md",
     "_posts/2026-08-02-user-prompts-examples.md",
     "_site/assets/logo.svg",
     "assets/logo.svg",
-    "_site/2026-08-07/future-plans.html",
-    "_site/2026-08-07/index.html",
-    "_site/2026-08-07",
-    "_site/2026-08-04/basic-manual-1.html",
-    "_site/2026-08-04/2026-08-04-basic-manual 1.html",
-    "_site/2026-08-04/basic-manual.html",
-    "_site/2026-08-04",
-    "_site/2026-08-02/user-prompts-examples.html",
-    "_site/2026-08-02",
     "_posts/2017-03-16-example-content.md",
     "_posts/2026-07-03-welcome.md.md",
-    "_site/2026-07-03/2017-03-16-example-content.html",
     "_posts/2017-03-06-the-mystery-of-the-filler-post.md",
     "_posts/2017-03-07-the-case-of-the-missing-post.md",
     "_posts/2017-03-29-introducing-tale.md",

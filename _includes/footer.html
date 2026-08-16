@@ -5,3 +5,30 @@
     {% endcomment %}
   </span>
 </footer>
+
+<!-- 1. Load Mermaid.js Library -->
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+
+<!-- 2. Parse and render markdown code blocks as Mermaid diagrams -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    mermaid.initialize({ startOnLoad: true, theme: 'default' });
+    
+    const mermaidBlocks = document.querySelectorAll("code.language-mermaid");
+    
+    mermaidBlocks.forEach(function(block) {
+      const preElement = block.parentNode;
+      const newDiv = document.createElement("div");
+      
+      newDiv.className = "mermaid";
+      newDiv.textContent = block.textContent;
+      
+      if (preElement.tagName === "PRE") {
+        preElement.parentNode.replaceChild(newDiv, preElement);
+      } else {
+        block.parentNode.replaceChild(newDiv, block);
+      }
+    });
+  });
+</script>
+
