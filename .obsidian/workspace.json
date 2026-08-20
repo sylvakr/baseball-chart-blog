@@ -11,14 +11,14 @@
             "id": "f160a139d40534c6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "_posts/2026-08-18-numbers-in-baseball.md",
-                "bFile": "_posts/2026-08-18-numbers-in-baseball.md",
-                "aRef": ""
+                "file": "_posts/2026-08-18-numbers-in-baseball.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: 2026-08-18-numbers-in-baseball  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "2026-08-18-numbers-in-baseball"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-08-16-sql-validation-pipeline.md",
+                "file": "_posts/2026-08-18-numbers-in-baseball.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,6 +174,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "b338562b7077ac3e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -192,11 +202,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "f160a139d40534c6",
   "lastOpenFiles": [
+    "_posts/2026-08-02-user-prompts-examples.md",
     "_posts/2026-08-18-numbers-in-baseball.md",
     "_posts/2026-08-16-test-map.md",
     "_site/2026-08-18/2026-08-18-numbers-in-baseball.html",
@@ -209,7 +221,6 @@
     "_site/2026-08-18/2026-08-18-numbers-in-baseball.html",
     "_site/2026-08-18/2026-08-18-numbers-in-baseball.html",
     "_site/2026-08-18",
-    "_posts/2026-08-02-user-prompts-examples.md",
     "_posts/2026-08-16-sql-validation-pipeline.md",
     "_posts/2026-08-07-future-plans.md",
     "_posts/2026-08-04-basic-manual.md",
