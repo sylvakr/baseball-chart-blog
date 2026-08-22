@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-08-18-numbers-in-baseball.md",
-                "mode": "source",
+                "file": "_posts/2026-08-16-test-map.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-08-18-numbers-in-baseball"
+              "title": "2026-08-16-test-map"
             }
           }
         ]
@@ -208,9 +208,10 @@
   },
   "active": "f160a139d40534c6",
   "lastOpenFiles": [
-    "_posts/2026-08-02-user-prompts-examples.md",
-    "_posts/2026-08-18-numbers-in-baseball.md",
+    "_posts/2026-08-16-sql-validation-pipeline.md",
     "_posts/2026-08-16-test-map.md",
+    "_posts/2026-08-18-numbers-in-baseball.md",
+    "_posts/2026-08-02-user-prompts-examples.md",
     "_site/2026-08-18/2026-08-18-numbers-in-baseball.html",
     "_site/2026-08-18/2026-08-18-numbers-in-baseball.html",
     "_site/2026-08-18/2026-08-18-numbers-in-baseball.html",
@@ -221,7 +222,6 @@
     "_site/2026-08-18/2026-08-18-numbers-in-baseball.html",
     "_site/2026-08-18/2026-08-18-numbers-in-baseball.html",
     "_site/2026-08-18",
-    "_posts/2026-08-16-sql-validation-pipeline.md",
     "_posts/2026-08-07-future-plans.md",
     "_posts/2026-08-04-basic-manual.md",
     "_site/assets/logo.svg",
