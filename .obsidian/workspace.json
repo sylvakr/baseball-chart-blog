@@ -42,7 +42,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -206,7 +206,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f160a139d40534c6",
+  "active": "219876ecb57476a1",
   "lastOpenFiles": [
     "_posts/2026-08-18-numbers-in-baseball.md",
     "_posts/2026-08-16-test-map.md",
