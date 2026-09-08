@@ -35,3 +35,11 @@
   padding: 12px 0 !important;   /* 위아래 패딩을 확 줄임 */
   margin-bottom: 0 !important;  /* 혹시 모를 다음 칸과의 마진 제거 */
 }
+
+/* GitHub 스타일 H1, H2 밑줄 추가 */
+.post-content h2,
+.post-content h3,
+h2, h3 {
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #eaecef;
+}

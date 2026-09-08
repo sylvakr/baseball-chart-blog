@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "09e42fd406b7a856",
+        "id": "4df2dfb03603fbe8",
         "type": "tabs",
         "children": [
           {
-            "id": "893abb6d1dd162f6",
+            "id": "2988fb2a8bb7dc66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_posts/2026-09-08-keeping-our-data-accurate.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2026-09-08-keeping-our-data-accurate"
@@ -206,12 +206,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "893abb6d1dd162f6",
+  "active": "2988fb2a8bb7dc66",
   "lastOpenFiles": [
-    "_posts/2026-09-08-keeping-our-data-accurate.md",
     "_posts/2026-08-18-numbers-in-baseball.md",
     "_posts/2026-08-16-test-map.md",
     "_posts/2026-08-16-sql-validation-pipeline.md",
+    "_posts/2026-08-07-future-plans.md",
+    "_posts/2026-08-04-basic-manual.md",
+    "_posts/2026-08-02-user-prompts-examples.md",
+    "_posts/2026-09-08-keeping-our-data-accurate.md",
+    "1.md",
     "README.md",
     "_site/2026-09-08/README.html",
     "_site/README.html",
@@ -226,11 +230,7 @@
     "_site/assets/images/2026-09-08-keeping-our-data-accurate.png",
     "_site/1.md",
     "assets/images/954093D3-2855-4B35-ABFF-9A3801550B81.png",
-    "_posts/2026-08-07-future-plans.md",
-    "_posts/2026-08-04-basic-manual.md",
-    "_posts/2026-08-02-user-prompts-examples.md",
     "assets/images/2026-09-08-keeping-our-data-accurate.png",
-    "1.md",
     "_site/assets/logo.svg",
     "assets/logo.svg",
     "_posts/2017-03-16-example-content.md",
