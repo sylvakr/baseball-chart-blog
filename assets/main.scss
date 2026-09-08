@@ -18,8 +18,9 @@ permalink: /assets/main.css
 
 
 
-// 1. 목록 제목 크기 및 행간 줄임
+// 1. 목록 제목 크기, 행간 및 색상 조정
 .catalogue-title {
+  color: #2b2b2b !important; /* 부드러운 다크 그레이 (#222~#333 계열) */
   font-size: 1.2rem !important; 
   line-height: 1.2 !important;
   margin-bottom: 0 !important; /* 제목 아래쪽 마진 제거 */
