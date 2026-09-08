@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "464aed189adb6c27",
+        "id": "09e42fd406b7a856",
         "type": "tabs",
         "children": [
           {
-            "id": "f160a139d40534c6",
+            "id": "893abb6d1dd162f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_posts/2026-09-08-keeping-our-data-accurate.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "2026-09-08-keeping-our-data-accurate"
@@ -206,8 +206,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f160a139d40534c6",
+  "active": "893abb6d1dd162f6",
   "lastOpenFiles": [
+    "_posts/2026-09-08-keeping-our-data-accurate.md",
+    "_posts/2026-08-18-numbers-in-baseball.md",
+    "_posts/2026-08-16-test-map.md",
+    "_posts/2026-08-16-sql-validation-pipeline.md",
     "README.md",
     "_site/2026-09-08/README.html",
     "_site/README.html",
@@ -221,14 +225,10 @@
     "_site/README.html",
     "_site/assets/images/2026-09-08-keeping-our-data-accurate.png",
     "_site/1.md",
-    "_posts/2026-09-08-keeping-our-data-accurate.md",
     "assets/images/954093D3-2855-4B35-ABFF-9A3801550B81.png",
-    "_posts/2026-08-18-numbers-in-baseball.md",
-    "_posts/2026-08-16-sql-validation-pipeline.md",
     "_posts/2026-08-07-future-plans.md",
     "_posts/2026-08-04-basic-manual.md",
     "_posts/2026-08-02-user-prompts-examples.md",
-    "_posts/2026-08-16-test-map.md",
     "assets/images/2026-09-08-keeping-our-data-accurate.png",
     "1.md",
     "_site/assets/logo.svg",

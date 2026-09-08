@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 이 사이트 기록은 KBO 기록실과 같은가
+title: "이 사이트 기록은 KBO 기록실과 같은가"
 sticky: false
 hidden: false
 ---
