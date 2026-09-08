@@ -50,32 +50,43 @@ h2, h3 {
   font-weight: 500 !important; 
 }
 
-// 4. 상단 내비게이션 바 반응형 레이아웃 (모바일/좁은 화면 줄바꿈 방지)
+// 4. 상단 내비게이션 바 반응형 레이아웃 (모바일/아이폰 미니 완벽 대응)
 .nav-container {
   display: flex !important;
   align-items: center !important;
   justify-content: space-between !important;
   flex-wrap: nowrap !important;
+  width: 92% !important;
+  max-width: 800px !important;
+  margin: 0.75rem auto !important;
+  padding: 0 !important;
 }
 
 .nav-title {
-  white-space: nowrap;
+  font-size: 1.25rem !important;
+  white-space: nowrap !important;
   border-bottom: none !important;
+  margin: 0 !important;
+  line-height: 1.2 !important;
 }
 
 .nav-logo {
-  display: flex;
-  align-items: center;
-  flex-shrink: 0;
+  display: flex !important;
+  align-items: center !important;
+  flex-shrink: 0 !important;
 
-  img {
+  .nav-logo-img, img {
     height: 32px !important;
     width: 32px !important;
+    max-height: 32px !important;
+    max-width: 32px !important;
     vertical-align: middle;
 
     @media (min-width: 600px) {
       height: 40px !important;
       width: 40px !important;
+      max-height: 40px !important;
+      max-width: 40px !important;
     }
   }
 }
