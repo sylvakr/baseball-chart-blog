@@ -1,4 +1,8 @@
---- # Only the main Sass file needs front matter (the dashes are enough) --- @import 'tale';
+---
+layout: null
+permalink: /assets/main.css
+---
+@import 'tale';
 
 // 개별 포스트 상단 여백 완전 제거 (0)
 .post {
@@ -16,31 +20,34 @@
 
 // 1. 목록 제목 크기 및 행간 줄임
 .catalogue-title {
-  font-size: 1.2rem !important;
+  font-size: 1.2rem !important; 
   line-height: 1.2 !important;
-  margin-bottom: 0 !important;
-  /* 제목 아래쪽 마진 제거 */
+  margin-bottom: 0 !important; /* 제목 아래쪽 마진 제거 */
 }
 
 // 2. 제목 밑에 나오는 검은색 가로선 여백 제거
 .catalogue-line {
-  margin: 4px 0 0 0 !important;
-  /* 가로선 위아래 붕 뜨는 공간을 최소화 */
+  margin: 4px 0 0 0 !important; /* 가로선 위아래 붕 뜨는 공간을 최소화 */
 }
 
 // 3. 목록 한 칸의 전체 위아래 간격 대폭 축소
 .catalogue-item {
-  padding: 12px 0 !important;
-  /* 위아래 패딩을 확 줄임 */
-  margin-bottom: 0 !important;
-  /* 혹시 모를 다음 칸과의 마진 제거 */
+  padding: 12px 0 !important;   /* 위아래 패딩을 확 줄임 */
+  margin-bottom: 0 !important;  /* 혹시 모를 다음 칸과의 마진 제거 */
 }
 
-/* GitHub 스타일 H2, H3 밑줄 추가 (포스트 본문 전용) */
+/* GitHub 스타일 H2, H3 밑줄 추가 */
 .post-content h2,
-.post-content h3 {
+.post-content h3,
+h2, h3 {
   padding-bottom: 0.3em;
   border-bottom: 1px solid #eaecef;
+}
+
+.catalogue-pinned,
+.catalogue-time {
+  color: #555555 !important; 
+  font-weight: 500 !important; 
 }
 
 // 4. 상단 내비게이션 바 반응형 레이아웃 (모바일/좁은 화면 줄바꿈 방지)
@@ -71,10 +78,4 @@
       width: 40px !important;
     }
   }
-}
-
-.catalogue-pinned,
-.catalogue-time {
-  color: #555555 !important;
-  font-weight: 500 !important;
 }
