@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-08-04-basic-manual.md",
+                "file": "_posts/2026-09-09-draft-position-school.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-08-04-basic-manual"
+              "title": "2026-09-09-draft-position-school"
             }
           }
         ]
@@ -208,17 +208,19 @@
   },
   "active": "2988fb2a8bb7dc66",
   "lastOpenFiles": [
-    "_site/2026-09-08/2026-08-04-basic-manual.html",
-    "_site/2026-08-18/2026-08-04-basic-manual.html",
-    "_site/2026-08-16/2026-08-04-basic-manual.html",
-    "_site/2026-08-07/2026-08-04-basic-manual.html",
-    "_site/2026-08-04/2026-08-04-basic-manual.html",
-    "_site/2026-08-02/2026-08-04-basic-manual.html",
-    "_site/2026-08-04-basic-manual.xml",
-    "_site/assets/css/2026-08-04-basic-manual.css",
-    "_site/tags/2026-08-04-basic-manual.html",
-    "_site/assets/2026-08-04-basic-manual.css",
-    "_site/about/2026-08-04-basic-manual.html",
+    "_posts/2026-09-08-keeping-our-data-accurate.md",
+    "_site/2026-09-09/draft-position-school.html",
+    "_posts/2026-09-09-draft-position-school.md",
+    "_site/2026-09-09/draft-position-school.md.html",
+    "_site/2026-09-09/2026-09-08-keeping-our-data-accurate.html",
+    "_site/2026-09-09/2026-09-09-draft-position-school.html",
+    "_site/2026-09-09/2026-09-09-draft-position-school.html",
+    "_site/2026-09-09/2026-09-09-draft-position-school.html",
+    "_site/2026-09-09/2026-09-09-draft-position-school.html",
+    "_site/2026-09-09/2026-09-09-draft-position-school.html",
+    "_site/2026-09-09/2026-09-09-draft-position-school.html",
+    "_site/2026-09-09/draft-position-and-school.html",
+    "_posts/2026-08-04-basic-manual.md",
     "_site/assets/images/2026-09-08-keeping-our-data-accurate.png",
     "_site/assets/logo.svg",
     "_site/assets/favicon-32x32.png",
@@ -226,12 +228,10 @@
     "_site/assets/apple-touch-icon.png",
     "_site/README.md",
     "_site/CODE_OF_CONDUCT.md",
-    "_posts/2026-09-08-keeping-our-data-accurate.md",
     "_posts/2026-08-18-numbers-in-baseball.md",
     "_posts/2026-08-16-test-map.md",
     "_posts/2026-08-16-sql-validation-pipeline.md",
     "_posts/2026-08-07-future-plans.md",
-    "_posts/2026-08-04-basic-manual.md",
     "_posts/2026-08-02-user-prompts-examples.md",
     "1.md",
     "README.md",

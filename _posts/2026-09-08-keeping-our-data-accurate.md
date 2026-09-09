@@ -4,7 +4,7 @@ title: "이 사이트 기록은 KBO 기록실과 같은가"
 sticky: false
 hidden: false
 ---
-최종 수정 2026-09-08 08:21 KST
+<sub>최종 수정 2026-09-08 08:21 KST</sub>
 
 ## 이 문서는 누가 만들었나
 
