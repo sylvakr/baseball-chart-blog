@@ -6,10 +6,6 @@ hidden: false
 ---
 <sub>최종 수정 2026-09-08 08:21 KST</sub>
 
-## 이 문서는 누가 만들었나
-
-Claude Code가 만든 문서를 사람이 검토하고 직접 수정·편집했다.
-
 ## 무엇을 확인하려 했나
 
 이 사이트는 KBO 정규시즌 기록을 KBO 기록실에서 받아 사용한다. 그러면 방문자가 가질 법한 물음은 하나로 모인다. **여기 있는 숫자가 KBO 기록실의 숫자와 같은가.** 1982-2025 시즌을 다뤘고, 2026년은 진행 중이라 뺐다.
@@ -410,6 +406,8 @@ KBO 기록실 말고는 스탯티즈 한 곳만 참고했다. 자체 검산으�
 첫째, KBO 리그의 공식 기록은 KBO 기록실이다. 이 사이트는 KBO 기록실을 그대로 바라본다.
 
 둘째, 누락된 기록이 사소해 전체에 영향이 없다. 어긋난 채로 두는 편이 더 많은 것을 지킨다.
+
+<sub>이 글은 Claude Code의 도움을 받아 초안을 작성하고, 모든 내용을 직접 검증·수정했습니다.</sub>
 
 ---
 [^1]: 레트로시트(Retrosheet)의 discrepancy files와 그 검증 방식, 그리고 1922년 내셔널리그의 1,223건(그중 356건은 명백한 오류)이라는 수치는 다음 글에 실려 있다. SABR, "Retrosheet Creates New Discrepancy Files" (https://sabr.org/latest/retrosheet-creates-new-discrepancy-files)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-09-10-llm-text-to-sql-validation.md",
-                "mode": "preview",
+                "file": "_posts/2026-09-08-keeping-our-data-accurate.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-09-10-llm-text-to-sql-validation"
+              "title": "2026-09-08-keeping-our-data-accurate"
             }
           }
         ]
@@ -208,21 +208,20 @@
   },
   "active": "2988fb2a8bb7dc66",
   "lastOpenFiles": [
+    "_posts/2026-09-09-draft-position-school.md",
+    "_posts/2026-09-10-llm-text-to-sql-validation.md",
+    "_site/2026-09-10/llm-text-to-sql-validation.html",
+    "_site/2026-09-10/2026-09-10-llm-text-to-sql-validation.html",
+    "_site/2026-09-10/2026-09-10-llm-text-to-sql-validation.html",
     "_site/2026-09-10/2026-09-10-llm-text-to-sql-validation.html",
     "_site/2026-09-10/2026-09-10-llm-text-to-sql-validation.html",
     "_site/2026-09-10/2026-09-10-llm-sql-validation.html",
     "_site/2026-09-10",
-    "_posts/2026-09-09-draft-position-school.md",
-    "_posts/2026-09-10-llm-text-to-sql-validation.md",
     "_site/2026-09-09/llm-sql-validation.html",
     "_site/2026-09-09/2026-09-09-draft-position-school 1.html",
     "_posts/2026-08-16-sql-validation-pipeline.md",
     "_posts/2026-09-08-keeping-our-data-accurate.md",
     "_site/2026-09-09/draft-position-school.html",
-    "_site/2026-09-09/draft-position-school.md.html",
-    "_site/2026-09-09/2026-09-08-keeping-our-data-accurate.html",
-    "_site/2026-09-09/2026-09-09-draft-position-school.html",
-    "_site/2026-09-09/2026-09-09-draft-position-school.html",
     "_posts/2026-08-04-basic-manual.md",
     "_site/assets/images/2026-09-08-keeping-our-data-accurate.png",
     "_site/assets/logo.svg",
