@@ -411,4 +411,5 @@ KBO 기록실 말고는 스탯티즈 한 곳만 참고했다. 자체 검산으�
 
 둘째, 누락된 기록이 사소해 전체에 영향이 없다. 어긋난 채로 두는 편이 더 많은 것을 지킨다.
 
+---
 [^1]: 레트로시트(Retrosheet)의 discrepancy files와 그 검증 방식, 그리고 1922년 내셔널리그의 1,223건(그중 356건은 명백한 오류)이라는 수치는 다음 글에 실려 있다. SABR, "Retrosheet Creates New Discrepancy Files" (https://sabr.org/latest/retrosheet-creates-new-discrepancy-files)
