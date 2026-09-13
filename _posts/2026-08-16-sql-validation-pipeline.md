@@ -4,7 +4,7 @@ title: "[개발노트] SQL Validation Pipeline"
 sticky: false
 hidden: true
 ---
- LLM이 생성한 SQL을 실행해 보면 정답이 아닌 경우가 있다. 이는 결국 잘못된 차트가 그려진다는 의미다. LLM은 태생적으로 확률적(stochastic)이고 비결정적(non-deterministic)이기 때문에, 똑같은 질문을 던져도 틀린 결과를 내는 SQL을 반환하는 경우가 반드시 발생한다. Gemini, Anthropic, OpenAI 등 여러 모델을 대상으로 Text-to-SQL 정확도, 응답 속도, 가격 등을 벤치마크하여 최적의 LLM을 선정했음에도 실제 결과는 실망스러웠다.
+ LLM이 생성한 SQL을 실행해 보면 정답이 아닌 경우가 있다. 이는 결국 잘못된 차트가 그려진다는 의미다. LLM은 태생적으로 확률적(stochastic)이고 비결정적(non-deterministic)이기 때문에, 똑같은 질문을 던져도 틀린 결과를 내는 SQL을 반환하는 경우가 발생한다. Gemini, Anthropic, OpenAI 등 여러 모델을 대상으로 Text-to-SQL 정확도, 응답 속도, 가격 등을 벤치마크하여 최적의 LLM을 선정했음에도 실제 결과는 실망스러웠다.
  
 LLM을 믿고 SQL를 그대로 받아 먹는 구조에서 → LLM을 사용하되 그 결과를 독립적으로 검증하는 구조로 완전히 프로젝트 방향을 바꿨다. 개발이 아니라 실험이 되었다.
  
