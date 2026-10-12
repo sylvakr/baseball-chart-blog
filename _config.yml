@@ -44,3 +44,5 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec, .obsidian, .git ]
 
 # Disqus (Set to your disqus id)
 disqus:         jekyll-tale
+
+timezone: Asia/Seoul
