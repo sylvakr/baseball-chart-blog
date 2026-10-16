@@ -53,7 +53,9 @@ layout: default
     <a href="{{ older_post.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
   {% endif %}
 
-  <a href="#" class="top">Top</a>
+  <a href="{{ '/' | prepend: site.baseurl }}" class="list">목록</a>
 </div>
+
+<a href="#" class="back-to-top" aria-label="맨 위로">&#8593;</a>
 
 {% include beehiiv.html %}
