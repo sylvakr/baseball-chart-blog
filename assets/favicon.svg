@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="14 18 72 72" width="100%" height="100%">
+  <!-- 정방향 야구 홈플레이트 (아래쪽이 뾰족한 ▼ 모양) -->
+  <!-- 탭·검색 결과용 아이콘. 16~24px 에서도 읽히게 선을 굵히고 둘레 여백을 잘랐다 (2026-10-07).
+       원래는 2.5/3.5 의 가는 선 · #888/#666 · viewBox 0 0 100 100 이라 작은 크기에서 사라졌다.
+       화면 안 로고는 logo.svg — 선과 색이 같고 여백만 다르다. 바꾸면 둘 다 바꾸고
+       scripts/bake_favicon.py 로 assets/favicon.png 를 다시 굽는다. -->
+  <path d="M 25,30 L 75,30 L 75,60 L 50,80 L 25,60 Z" fill="none" stroke="#7a7a7a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- 똑바로 올라가는 우상향 데이터 라인 (꺾은선 그래프) -->
+  <path d="M 20,68 L 40,55 L 55,60 L 80,28" fill="none" stroke="#444444" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

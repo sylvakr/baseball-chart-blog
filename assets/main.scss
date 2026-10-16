@@ -78,18 +78,14 @@ h2, h3 {
   align-items: center !important;
   flex-shrink: 0 !important;
 
+  // 구운 화면 셋 · 앱 왼쪽 위 로고와 같은 30px — 어느 폭에서나(2026-10-16). 예전에는 폰 32 · 600px 이상 40 이었다.
+  // margin 0 — 테마의 img 아래 여백(16px)이 로고를 글자보다 위로 밀었다.
   .nav-logo-img, img {
-    height: 32px !important;
-    width: 32px !important;
-    max-height: 32px !important;
-    max-width: 32px !important;
+    height: 30px !important;
+    width: 30px !important;
+    max-height: 30px !important;
+    max-width: 30px !important;
+    margin: 0 !important;
     vertical-align: middle;
-
-    @media (min-width: 600px) {
-      height: 40px !important;
-      width: 40px !important;
-      max-height: 40px !important;
-      max-width: 40px !important;
-    }
   }
 }

@@ -1,10 +1,11 @@
 <nav class="nav">
+  <!-- 맨 윗줄 — 구운 화면 셋(드래프트 · 선수이동 · 역대감독)과 같은 짜임이다(2026-10-16). 왼쪽 로고 + 「차트만들기」는 앱으로
+       (이름 붙은 탭 bc-app — 구운 화면과 같은 탭을 다시 쓴다), 오른쪽은 이 블로그의 첫 화면. 값(로고 30px · 글자 14px #6B7280)도 같다. -->
   <div class="nav-container" style="display: flex !important; align-items: center !important; justify-content: space-between !important; flex-wrap: nowrap !important;">
-    <a href="{{ site.baseurl }}/" style="white-space: nowrap; text-decoration: none;">
-      <h2 class="nav-title" style="margin: 0; display: inline-block; white-space: nowrap; border-bottom: none !important; font-size: 1rem; font-weight: 600; letter-spacing: -0.02em;">Blog Home</h2>
+    <a href="https://baseballchart.kr/" target="bc-app" class="nav-logo" style="display: flex; align-items: center; gap: 7px; flex-shrink: 0; text-decoration: none;">
+      <img src="{{ '/assets/logo.svg' | relative_url }}" alt="" class="nav-logo-img" width="30" height="30" style="display: block; width: 30px; height: 30px; margin: 0;">
+      <span style="font-size: 14px; color: #6B7280; white-space: nowrap;">차트만들기</span>
     </a>
-    <a href="https://baseballchart.kr" class="nav-logo" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; flex-shrink: 0;">
-      <img src="{{ '/assets/logo.svg' | relative_url }}" alt="baseballchart.kr" class="nav-logo-img" width="32" height="32" style="width: 32px; height: 32px; max-width: 32px; max-height: 32px; vertical-align: middle;">
-    </a>
+    <a href="{{ site.baseurl }}/" style="font-size: 14px; color: #6B7280; white-space: nowrap; text-decoration: none;">블로그</a>
   </div>
 </nav>
