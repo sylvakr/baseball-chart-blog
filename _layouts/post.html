@@ -32,11 +32,25 @@ layout: default
 {% endif %}
 
 <div class="pagination">
-  {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% comment %} hidden 글을 제외한 목록(최신순)에서 앞뒤 글 계산 {% endcomment %}
+  {% assign visible_posts = site.posts | where_exp: "post", "post.hidden != true" %}
+  {% assign newer_post = nil %}
+  {% assign older_post = nil %}
+  {% for post in visible_posts %}
+    {% if post.url == page.url %}
+      {% assign newer_index = forloop.index0 | minus: 1 %}
+      {% assign older_index = forloop.index0 | plus: 1 %}
+      {% if newer_index >= 0 %}{% assign newer_post = visible_posts[newer_index] %}{% endif %}
+      {% assign older_post = visible_posts[older_index] %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {% if newer_post.url %}
+    <a href="{{ newer_post.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
   {% endif %}
-  {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+  {% if older_post.url %}
+    <a href="{{ older_post.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
   {% endif %}
 
   <a href="#" class="top">Top</a>
