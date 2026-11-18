@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[개발노트] LLM이 만든 SQL은 조용히 틀립니다"
+title: "[기술노트] LLM이 만든 SQL은 조용히 틀립니다"
 sticky: false
 hidden: false
 ---
