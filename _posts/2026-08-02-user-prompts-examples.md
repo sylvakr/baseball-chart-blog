@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "사용자 프롬프트 예제"
-sticky: true
+title: 사용자 프롬프트 예제
+sticky: false
 hidden: true
 ---
 
